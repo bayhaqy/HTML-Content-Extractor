@@ -4,7 +4,7 @@ HTML Content Extractor is a simple web application created with Streamlit. It al
 
 ## How to Use
 
-1. Open [Here](https://html-content-extractor.streamlit.app) to access the website.
+1. Open [Here](https://blog.bayhaqy.my.id/p/apps-python-06.html) to access the website.
 2. Enter the URL you want to extract HTML content from.
 3. Click the "Fetch and Process HTML" button.
 4. The HTML content will be displayed when you click "Show Medium Content".
@@ -39,10 +39,12 @@ To run this Streamlit app locally, follow these steps:
    ```
 
 To run this Streamlit app on Streamlit.io, follow these steps:
-1. Open [Here](https://html-content-extractor.streamlit.app) and choose "Fork this app". 
-2. Adjust for "App URL".
-3. Click "Fork" to start the process.
-4. Open the URL as you adjust.
+1. Open [Here](https://blog.bayhaqy.my.id/p/apps-python-06.html).
+2. Choose the option for Fullscreen.
+3. Click "Fork this app". 
+4. Adjust for "App URL".
+5. Click "Fork" to start the process.
+6. Open the URL as you adjust.
 
 ## Dependencies
 
