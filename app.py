@@ -6,7 +6,7 @@ import io
 
 ## ............................................... ##
 # Set page configuration (Call this once and make changes as needed)
-st.set_page_config(page_title='(Tweet) X Scrapper Dashboard',  layout='wide', page_icon=':spiral_note_pad:')
+st.set_page_config(page_title='HTML-Content-Extractor',  layout='wide', page_icon=':spiral_note_pad:')
 
 ## ............................................... ##
 # Instructions and information
@@ -25,8 +25,7 @@ st.sidebar.markdown("© 2023 Bayhaqy")
 with st.container():
   # Define Streamlit app title and introduction
   st.title("HTML Content Extractor")
-  st.write("Enter the URL and extract HTML content from the Google web cache.")
-  st.write("Created by Bayhaqy")
+  st.write("Tools to extract HTML content from the Google web cache.")
 
 ## ............................................... ##
 # Input field for the URL
