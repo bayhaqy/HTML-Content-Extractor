@@ -1,4 +1,5 @@
 import streamlit.components.v1 as components
+from datetime import datetime
 import streamlit as st
 from bs4 import BeautifulSoup
 import requests
@@ -18,7 +19,7 @@ st.sidebar.info("4. Click the 'Download HTML' button to save the HTML file.")
 
 ## ............................................... ##
 # Footer
-st.sidebar.markdown("© 2023 Bayhaqy")
+st.sidebar.markdown(f"© {datetime.now().year} Bayhaqy")
 
 ## ............................................... ##
 # Streamlit app title and description
